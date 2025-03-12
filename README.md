@@ -15,10 +15,3 @@ This is a **simple GUI-based Weather App** built with **Python** and **Tkinter**
 ✅ **Displays weather icon** dynamically  
 ✅ **Bar chart visualization** of weather parameters  
 ✅ **Auto-refreshes every 60 seconds**  
-
-## 📦 Installation & Setup  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
